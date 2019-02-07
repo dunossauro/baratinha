@@ -2,7 +2,7 @@
 
 Exemplo de uma API flask usando algumas extensões acopladas
 
-- flask (óbivio)
+- flask (óbvio)
 - sqlalchemy
 - marshmallow
 - factory_boy
