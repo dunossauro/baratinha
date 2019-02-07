@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+marshmallow = "*"
+flask = "*"
+flask-sqlalchemy = "*"
+flask-marshmallow = "*"
+sqlalchemy = "*"
+flask-migrate = "*"
+gunicorn = "*"
+tox-pipenv = "*"
+factory-boy = "*"
+
+[dev-packages]
+tox = "*"
+
+[requires]
+python_version = "3.7"
